@@ -36,6 +36,3 @@ Descripción.
 <!-- Se pone aqui la descripción>
 
 
-# B
-## Bitcoin
-
